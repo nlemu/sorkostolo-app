@@ -1,0 +1,49 @@
+group,round,beer
+A,1,Soproni
+A,2,Borsodi
+A,3,Dreher
+A,4,HB
+A,5,Heineken
+A,6,Paulaner
+A,7,Kaiser
+A,8,Budweiser
+A,9,Kőbányai
+A,10,Pécsi
+A,11,Stella
+A,12,Arany Ászok
+B,1,Paulaner
+B,2,Heineken
+B,3,Soproni
+B,4,Borsodi
+B,5,Stella
+B,6,Kaiser
+B,7,HB
+B,8,Budweiser
+B,9,Kőbányai
+B,10,Pécsi
+B,11,Dreher
+B,12,Arany Ászok
+C,1,Kaiser
+C,2,Stella
+C,3,Borsodi
+C,4,Heineken
+C,5,Kőbányai
+C,6,HB
+C,7,Arany Ászok
+C,8,Paulaner
+C,9,Budweiser
+C,10,Dreher
+C,11,Pécsi
+C,12,Soproni
+D,1,Budweiser
+D,2,Arany Ászok
+D,3,Paulaner
+D,4,Soproni
+D,5,Dreher
+D,6,Kaiser
+D,7,Pécsi
+D,8,Stella
+D,9,Heineken
+D,10,HB
+D,11,Kőbányai
+D,12,Borsodi
