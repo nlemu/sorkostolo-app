@@ -1,2 +1,281 @@
 name,round,guessed_beer,used_fix,pre_guess,post_guess,top3
-
+Gulyás Ádi,1,Heineken,True,6,3,False
+Gulyás Ádi,2,Löwenbrau,False,6,3,False
+Gulyás Ádi,3,Staropramen,False,6,3,True
+Gulyás Ádi,4,Kőbányai dobozos,False,6,3,False
+Gulyás Ádi,5,Borsodi,False,6,3,False
+Gulyás Ádi,6,Soproni,False,6,3,False
+Gulyás Ádi,7,Arany Korsó,False,6,3,False
+Gulyás Ádi,8,Kőbányai 2 literes,False,6,3,False
+Gulyás Ádi,9,Arany Ászok,False,6,3,False
+Gulyás Ádi,10,Tuborg,False,6,3,False
+Gulyás Ádi,11,Peroni,False,6,3,True
+Gulyás Ádi,12,Dreher,False,6,3,False
+Gulyás Ádi,13,Gösser,False,6,3,False
+Gulyás Ádi,14,Pilsner,False,6,3,False
+Végh Tamás,1,Tuborg,False,7,4,False
+Végh Tamás,2,Kőbányai dobozos,False,7,4,False
+Végh Tamás,3,Arany Korsó,False,7,4,False
+Végh Tamás,4,Staropramen,False,7,4,False
+Végh Tamás,5,Peroni,False,7,4,True
+Végh Tamás,6,Pilsner,False,7,4,True
+Végh Tamás,7,Gösser,False,7,4,False
+Végh Tamás,8,Arany Ászok,False,7,4,False
+Végh Tamás,9,Soproni,False,7,4,False
+Végh Tamás,10,Kőbányai 2 literes,False,7,4,False
+Végh Tamás,11,Dreher,False,7,4,False
+Végh Tamás,12,Löwenbrau,False,7,4,False
+Végh Tamás,13,Borsodi,False,7,4,False
+Végh Tamás,14,Heineken,False,7,4,False
+Zsiga,1,Soproni,False,4,2,False
+Zsiga,2,Arany Ászok,False,4,2,False
+Zsiga,3,Heineken,False,4,2,False
+Zsiga,4,Arany Korsó,False,4,2,False
+Zsiga,5,Borsodi,False,4,2,False
+Zsiga,6,Pilsner,False,4,2,True
+Zsiga,7,Tuborg,False,4,2,False
+Zsiga,8,Peroni,False,4,2,True
+Zsiga,9,Gösser,False,4,2,False
+Zsiga,10,Kőbányai dobozos,False,4,2,False
+Zsiga,11,Dreher,False,4,2,True
+Zsiga,12,Löwenbrau,False,4,2,False
+Zsiga,13,Kőbányai 2 literes,False,4,2,False
+Zsiga,14,Staropramen,False,4,2,False
+Nagy Marci,1,Dreher,False,10,4,True
+Nagy Marci,2,Arany Korsó,False,10,4,False
+Nagy Marci,3,Pilsner,False,10,4,True
+Nagy Marci,4,Soproni,True,10,4,False
+Nagy Marci,5,Peroni,False,10,4,False
+Nagy Marci,6,Kőbányai dobozos,False,10,4,False
+Nagy Marci,7,Kőbányai 2 literes,False,10,4,False
+Nagy Marci,8,Staropramen,False,10,4,False
+Nagy Marci,9,Löwenbrau,False,10,4,False
+Nagy Marci,10,Tuborg,False,10,4,True
+Nagy Marci,11,Gösser,False,10,4,False
+Nagy Marci,12,Arany Ászok,False,10,4,False
+Nagy Marci,13,Borsodi,False,10,4,False
+Nagy Marci,14,Heineken,False,10,4,False
+Mendöl,1,Arany Korsó,False,11,12,False
+Mendöl,2,Borsodi,False,11,12,False
+Mendöl,3,Kőbányai 2 literes,False,11,12,False
+Mendöl,4,Tuborg,False,11,12,False
+Mendöl,5,Heineken,False,11,12,False
+Mendöl,6,Staropramen,False,11,12,False
+Mendöl,7,Gösser,False,11,12,False
+Mendöl,8,Pilsner,False,11,12,False
+Mendöl,9,Peroni,False,11,12,False
+Mendöl,10,Löwenbrau,False,11,12,False
+Mendöl,11,Arany Ászok,False,11,12,False
+Mendöl,12,Soproni,False,11,12,False
+Mendöl,13,Dreher,False,11,12,False
+Mendöl,14,Kőbányai dobozos,False,11,12,False
+Áron,1,Heineken,False,5,3,False
+Áron,2,Löwenbrau,False,5,3,False
+Áron,3,Borsodi,False,5,3,False
+Áron,4,Kőbányai 2 literes,False,5,3,False
+Áron,5,Gösser,False,5,3,False
+Áron,6,Arany Ászok,False,5,3,False
+Áron,7,Tuborg,False,5,3,False
+Áron,8,Pilsner,False,5,3,False
+Áron,9,Arany Korsó,False,5,3,False
+Áron,10,Kőbányai dobozos,False,5,3,False
+Áron,11,Peroni,False,5,3,False
+Áron,12,Soproni,False,5,3,False
+Áron,13,Staropramen,False,5,3,False
+Áron,14,Dreher,False,5,3,False
+Jucu,1,Arany Ászok,False,0,0,False
+Jucu,2,Kőbányai dobozos,False,0,0,True
+Jucu,3,Peroni,False,0,0,False
+Jucu,4,Staropramen,False,0,0,False
+Jucu,5,Gösser,False,0,0,False
+Jucu,6,Tuborg,False,0,0,False
+Jucu,7,Dreher,False,0,0,False
+Jucu,8,Pilsner,False,0,0,False
+Jucu,9,Arany Korsó,False,0,0,False
+Jucu,10,Soproni,False,0,0,False
+Jucu,11,Heineken,False,0,0,False
+Jucu,12,Borsodi,False,0,0,False
+Jucu,13,Kőbányai 2 literes,False,0,0,True
+Jucu,14,Löwenbrau,False,0,0,False
+Geri,1,Borsodi,False,9,9,False
+Geri,2,Arany Korsó,False,9,9,False
+Geri,3,Pilsner,False,9,9,False
+Geri,4,Dreher,False,9,9,False
+Geri,5,Staropramen,True,9,9,False
+Geri,6,Peroni,False,9,9,False
+Geri,7,Löwenbrau,False,9,9,False
+Geri,8,Kőbányai 2 literes,False,9,9,False
+Geri,9,Tuborg,False,9,9,False
+Geri,10,Arany Ászok,False,9,9,False
+Geri,11,Heineken,False,9,9,False
+Geri,12,Gösser,False,9,9,False
+Geri,13,Kőbányai dobozos,False,9,9,True
+Geri,14,Soproni,False,9,9,False
+Kaló,1,Löwenbrau,False,0,2,False
+Kaló,2,Heineken,False,0,2,False
+Kaló,3,Pilsner,False,0,2,False
+Kaló,4,Dreher,False,0,2,False
+Kaló,5,Staropramen,False,0,2,False
+Kaló,6,Peroni,False,0,2,True
+Kaló,7,Tuborg,False,0,2,False
+Kaló,8,Gösser,False,0,2,False
+Kaló,9,Kőbányai dobozos,False,0,2,False
+Kaló,10,Kőbányai 2 literes,False,0,2,False
+Kaló,11,Borsodi,False,0,2,False
+Kaló,12,Soproni,False,0,2,False
+Kaló,13,Arany Korsó,False,0,2,False
+Kaló,14,Arany Ászok,False,0,2,False
+Kami,1,Kőbányai 2 literes,False,6,2,True
+Kami,2,Arany Korsó,False,6,2,False
+Kami,3,Gösser,False,6,2,False
+Kami,4,Soproni,False,6,2,False
+Kami,5,Staropramen,False,6,2,False
+Kami,6,Pilsner,False,6,2,False
+Kami,7,Arany Ászok,False,6,2,False
+Kami,8,Borsodi,False,6,2,False
+Kami,9,Dreher,False,6,2,False
+Kami,10,Tuborg,False,6,2,False
+Kami,11,Löwenbrau,False,6,2,False
+Kami,12,Peroni,False,6,2,True
+Kami,13,Heineken,False,6,2,False
+Kami,14,Staropramen,False,6,2,False
+Csongi,1,Arany Ászok,False,8,2,False
+Csongi,2,Heineken,False,8,2,True
+Csongi,3,Löwenbrau,False,8,2,False
+Csongi,4,Tuborg,False,8,2,False
+Csongi,5,Peroni,False,8,2,False
+Csongi,6,Dreher,False,8,2,False
+Csongi,7,Pilsner,False,8,2,False
+Csongi,8,Borsodi,False,8,2,False
+Csongi,9,Arany Korsó,False,8,2,False
+Csongi,10,Kőbányai dobozos,False,8,2,False
+Csongi,11,Gösser,False,8,2,False
+Csongi,12,Heineken,False,8,2,True
+Csongi,13,Staropramen,False,8,2,False
+Csongi,14,Kőbányai 2 literes,False,8,2,True
+Annus,1,Kőbányai dobozos,False,5,7,True
+Annus,2,Staropramen,False,5,7,False
+Annus,3,Borsodi,False,5,7,False
+Annus,4,Dreher,False,5,7,True
+Annus,5,Löwenbrau,False,5,7,False
+Annus,6,Pilsner,False,5,7,False
+Annus,7,Borsodi,False,5,7,False
+Annus,8,Kőbányai 2 literes,False,5,7,True
+Annus,9,Soproni,False,5,7,False
+Annus,10,Tuborg,False,5,7,False
+Annus,11,Gösser,False,5,7,False
+Annus,12,Peroni,False,5,7,False
+Annus,13,Heineken,False,5,7,False
+Annus,14,Arany Korsó,False,5,7,False
+Topi,1,Soproni,False,6,3,True
+Topi,2,Arany Ászok,False,6,3,False
+Topi,3,Tuborg,False,6,3,False
+Topi,4,Staropramen,False,6,3,True
+Topi,5,Löwenbrau,False,6,3,False
+Topi,6,Gösser,False,6,3,False
+Topi,7,Heineken,False,6,3,False
+Topi,8,Pilsner,False,6,3,False
+Topi,9,Peroni,False,6,3,True
+Topi,10,Arany Korsó,False,6,3,False
+Topi,11,Dreher,False,6,3,False
+Topi,12,Heineken,False,6,3,False
+Topi,13,Kőbányai dobozos,False,6,3,False
+Topi,14,Arany Korsó,False,6,3,False
+Gáti,1,Heineken,False,1,1,False
+Gáti,2,Löwenbrau,False,1,1,False
+Gáti,3,Gösser,False,1,1,False
+Gáti,4,Peroni,False,1,1,True
+Gáti,5,Kőbányai 2 literes,False,1,1,True
+Gáti,6,Arany Ászok,False,1,1,False
+Gáti,7,Staropramen,False,1,1,True
+Gáti,8,Borsodi,False,1,1,False
+Gáti,9,Staropramen,False,1,1,False
+Gáti,10,Kőbányai dobozos,False,1,1,False
+Gáti,11,Dreher,False,1,1,False
+Gáti,12,Arany Korsó,False,1,1,False
+Gáti,13,Soproni,False,1,1,False
+Gáti,14,Pilsner,False,1,1,False
+Tóth Kristóf,1,Kőbányai 2 literes,False,7,3,False
+Tóth Kristóf,2,Gösser,False,7,3,True
+Tóth Kristóf,3,Dreher,False,7,3,False
+Tóth Kristóf,4,Tuborg,False,7,3,False
+Tóth Kristóf,5,Heineken,False,7,3,False
+Tóth Kristóf,6,Soproni,False,7,3,True
+Tóth Kristóf,7,Staropramen,False,7,3,False
+Tóth Kristóf,8,Pilsner,True,7,3,True
+Tóth Kristóf,9,Dreher,False,7,3,False
+Tóth Kristóf,10,Borsodi,False,7,3,False
+Tóth Kristóf,11,Peroni,False,7,3,False
+Tóth Kristóf,12,Borsodi,False,7,3,False
+Tóth Kristóf,13,Kőbányai 2 literes,False,7,3,False
+Tóth Kristóf,14,Arany Ászok,False,7,3,False
+GImi,1,Kőbányai dobozos,False,4,2,False
+GImi,2,Soproni,False,4,2,False
+GImi,3,Dreher,False,4,2,False
+GImi,4,Peroni,False,4,2,True
+GImi,5,Pilsner,False,4,2,True
+GImi,6,Peroni,False,4,2,False
+GImi,7,Peroni,False,4,2,False
+GImi,8,Dreher,False,4,2,False
+GImi,9,Soproni,False,4,2,False
+GImi,10,Peroni,False,4,2,True
+GImi,11,Arany Ászok,False,4,2,False
+GImi,12,Borsodi,False,4,2,False
+GImi,13,Tuborg,False,4,2,False
+GImi,14,Kőbányai 2 literes,False,4,2,False
+Palkó,1,Heineken,False,7,3,False
+Palkó,2,Kőbányai 2 literes,False,7,3,False
+Palkó,3,Arany Ászok,False,7,3,False
+Palkó,4,Borsodi,False,7,3,False
+Palkó,5,Arany Korsó,False,7,3,False
+Palkó,6,Kőbányai dobozos,False,7,3,False
+Palkó,7,Tuborg,False,7,3,False
+Palkó,8,Staropramen,False,7,3,False
+Palkó,9,Peroni,False,7,3,False
+Palkó,10,Pilsner,True,7,3,False
+Palkó,11,Löwenbrau,False,7,3,False
+Palkó,12,Soproni,False,7,3,False
+Palkó,13,Dreher,False,7,3,False
+Palkó,14,Gösser,False,7,3,False
+Grécka,1,Gösser,False,6,4,False
+Grécka,2,Arany Korsó,False,6,4,False
+Grécka,3,Heineken,False,6,4,True
+Grécka,4,Kőbányai dobozos,False,6,4,True
+Grécka,5,Arany Ászok,False,6,4,False
+Grécka,6,Dreher,False,6,4,True
+Grécka,7,Tuborg,True,6,4,False
+Grécka,8,Löwenbrau,False,6,4,False
+Grécka,9,Staropramen,False,6,4,False
+Grécka,10,Arany Korsó,False,6,4,False
+Grécka,11,Gösser,False,6,4,False
+Grécka,12,Soproni,False,6,4,False
+Grécka,13,Borsodi,False,6,4,False
+Grécka,14,Kőbányai 2 literes,False,6,4,False
+Dzsulkó,1,Arany Ászok,False,7,2,False
+Dzsulkó,2,Arany Ászok,False,7,2,False
+Dzsulkó,3,Arany Ászok,False,7,2,False
+Dzsulkó,4,Arany Ászok,False,7,2,False
+Dzsulkó,5,Arany Ászok,False,7,2,False
+Dzsulkó,6,Arany Ászok,False,7,2,False
+Dzsulkó,7,Arany Ászok,False,7,2,False
+Dzsulkó,8,Löwenbrau,False,7,2,False
+Dzsulkó,9,Arany Korsó,False,7,2,False
+Dzsulkó,10,Dreher,True,7,2,False
+Dzsulkó,11,Staropramen,False,7,2,False
+Dzsulkó,12,Kőbányai 2 literes,False,7,2,False
+Dzsulkó,13,Heineken,False,7,2,False
+Dzsulkó,14,Pilsner,False,7,2,False
+Ákos,1,Arany Ászok,False,2,0,False
+Ákos,2,Arany Ászok,False,2,0,False
+Ákos,3,Arany Ászok,False,2,0,False
+Ákos,4,Arany Ászok,False,2,0,False
+Ákos,5,Arany Ászok,False,2,0,False
+Ákos,6,Arany Ászok,False,2,0,False
+Ákos,7,Arany Ászok,False,2,0,False
+Ákos,8,Arany Ászok,False,2,0,False
+Ákos,9,Arany Ászok,False,2,0,False
+Ákos,10,Löwenbrau,False,2,0,False
+Ákos,11,Arany Korsó,False,2,0,False
+Ákos,12,Arany Ászok,False,2,0,False
+Ákos,13,Arany Ászok,False,2,0,False
+Ákos,14,Arany Ászok,False,2,0,False
