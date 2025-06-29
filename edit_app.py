@@ -27,7 +27,7 @@ name = st.selectbox("Név", participants["name"].unique())
 st.markdown("### Tippelések")
 with st.form("tip_form"):
     round_data = []
-    for round_num in range(1, 13):
+    for round_num in range(1, 14):
         cols = st.columns([1, 3, 1, 1])
         cols[0].markdown(f"**{round_num}. kör**")
         beer = cols[1].selectbox("Tippelt sör", beers, key=f"beer_{round_num}")
