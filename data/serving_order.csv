@@ -1,53 +1,57 @@
 group,round,beer
 A,1,Arany Ászok
-A,2,Heineken
+A,2,Gösser
 A,3,Tuborg
-A,4,Peroni
-A,5,Gösser
-A,6,Arany Korsó
-A,7,Löwenbrau
-A,8,Soproni
-A,9,Pilsner
-A,10,Kőbányai 2 literes
-A,11,Staropramen
-A,12,Kőbányai dobozos
-A,13,Borsodi
-B,1,Pilsner
+A,4,Löwenbrau
+A,5,Peroni
+A,6,Dreher
+A,7,Arany Korsó
+A,8,Kőbányai dobozos
+A,9,Soproni
+A,10,Pilsner
+A,11,Heineken
+A,12,Staropramen
+A,13,Kőbányai 2 literes
+A,14,Borsodi
+B,1,Peroni
 B,2,Arany Korsó
 B,3,Borsodi
-B,4,Peroni
-B,5,Tuborg
-B,6,Soproni
+B,4,Löwenbrau
+B,5,Pilsner
+B,6,Dreher
 B,7,Gösser
-B,8,Heineken
-B,9,Kőbányai 2 literes
-B,10,Arany Ászok
-B,11,Staropramen
-B,12,Löwenbrau
-B,13,Kőbányai dobozos
+B,8,Kőbányai 2 literes
+B,9,Kőbányai dobozos
+B,10,Heineken
+B,11,Tuborg
+B,12,Staropramen
+B,13,Soproni
+B,14,Arany Ászok
 C,1,Borsodi
-C,2,Pilsner
+C,2,Peroni
 C,3,Arany Ászok
 C,4,Staropramen
-C,5,Löwenbrau
-C,6,Kőbányai 2 literes
-C,7,Tuborg
-C,8,Peroni
-C,9,Arany Korsó
-C,10,Gösser
-C,11,Heineken
-C,12,Kőbányai dobozos
-C,13,Soproni
-D,1,Staropramen
-D,2,Heineken
-D,3,Gösser
-D,4,Arany Korsó
-D,5,Löwenbrau
-D,6,Pilsner
-D,7,Borsodi
-D,8,Arany Ászok
-D,9,Tuborg
-D,10,Peroni
-D,11,Soproni
-D,12,Kőbányai dobozos
-D,13,Kőbányai 2 literes
+C,5,Kőbányai dobozos
+C,6,Heineken
+C,7,Arany Korsó
+C,8,Dreher
+C,9,Kőbányai 2 literes
+C,10,Pilsner
+C,11,Soproni
+C,12,Löwenbrau
+C,13,Gösser
+C,14,Tuborg
+D,1,Kőbányai dobozos
+D,2,Arany Korsó
+D,3,Borsodi
+D,4,Tuborg
+D,5,Kőbányai 2 literes
+D,6,Arany Ászok
+D,7,Gösser
+D,8,Staropramen
+D,9,Peroni
+D,10,Heineken
+D,11,Dreher
+D,12,Soproni
+D,13,Pilsner
+D,14,Löwenbrau
